@@ -4,7 +4,7 @@
 06/30/2023
 
 ### Project Title
-Replace the Project Title
+Udacity Version Control course
 
 ### Description
 Describe what your project is about and what it does
