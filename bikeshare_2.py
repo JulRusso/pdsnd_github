@@ -67,7 +67,7 @@ def time_stats(df):
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
-    print('\nCalculating The Most Popular Stations and Trip...\n')
+    print('\nCalculating...\n')
     start_time = time.time()
 
     # display most commonly used start station
@@ -102,7 +102,7 @@ def trip_duration_stats(df):
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
-    print('\nCalculating User Stats...\n')
+    print('\nCalculating...\n')
     start_time = time.time()
 
     # Display counts of user types
@@ -116,6 +116,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+
 
 
 def main():
